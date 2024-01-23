@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1550009986 source:d:\jack\desktop\greenhouseclass\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	"header.h"
+
+1550009612 d:\jack\desktop\greenhouseclass\header.h
+	<iostream>
+	<string>
+
+1550009612 source:d:\jack\desktop\greenhouseclass\other.cpp
+	"header.h"
+
